@@ -1009,6 +1009,7 @@ a {
 .cid-s8WN8WYLOz .mbr-text,
 .cid-s8WN8WYLOz .mbr-section-btn {
   color: #353535;
+  text-align: left;
 }
 .cid-s8WN8WYLOz .mbr-text {
   max-width: 500px;
@@ -1875,7 +1876,8 @@ a {
   color: #121212;
 }
 .cid-tQpmxONUe0 .mbr-section-title {
-  color: #121212;
+  color: #ff6666;
+  text-align: center;
 }
 .cid-tQpmxONUe0 .mbr-section-subtitle {
   color: #707070;
